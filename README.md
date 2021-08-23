@@ -13,7 +13,7 @@ npm install openapi-xml2json
 
 
 ```
-const openapiXml2Json = require("./index.js");
+const openapiXml2Json = require("openapi-xml2json");
 // API KEY
 const apiKey = 'OPEN_API_KEY';
 
