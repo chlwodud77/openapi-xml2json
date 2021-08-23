@@ -16,6 +16,10 @@
     "email": "jaychoi201@gmail.com"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chlwodud77/openapi-xml2json.git"
+  },
   "dependencies": {
     "got": "^11.8.2",
     "xml2js": "^0.4.23"
