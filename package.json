@@ -1,0 +1,23 @@
+{
+  "name": "openapi-xml2json",
+  "version": "1.0.0",
+  "description": "Transfer xml response to json response using api http://data.go.kr",
+  "keywords": [
+    "http",
+    "promise",
+    "node",
+    "public"
+  ],
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "author": {
+    "name": "jay",
+    "email": "jaychoi201@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "got": "^11.8.2",
+    "xml2js": "^0.4.23"
+  }
+}
