@@ -1,6 +1,6 @@
 {
   "name": "openapi-xml2json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transfer xml response to json response using api http://data.go.kr",
   "keywords": [
     "http",

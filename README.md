@@ -29,7 +29,7 @@ const requestParams = {
 
 # execute request
 ```
-const result = await openapiXml2Json('OPEN_API_END_POINT_URL', API_KEY, requestParams);
+const result = await openapiXml2Json('http://data.go.kr/...', apiKey, requestParams);
 
 ```
 
